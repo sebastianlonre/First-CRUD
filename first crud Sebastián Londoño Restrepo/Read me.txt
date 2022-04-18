@@ -1,0 +1,4 @@
+Proyecto realizado por Sebastián Londoño Restrepo para
+La clase de construcción de software II del TdeA
+Realizado con Java Netbeans 12.6, base de datos
+con SQLITE
